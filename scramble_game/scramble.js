@@ -43,7 +43,7 @@ btn.addEventListener("click", function () {
     guess.classList.toggle("hidden");
     newWords = CreateWords();
     ranWords = scrambleWords(newWords.split("")).join(""); //here .split() function is used to convert strings in to arrays. and join() func is opposite of it.
-    msg.innerHTML =`Guess the Word : ${ranWords}`;
+    msg.innerHTML =`Guess the Name : ${ranWords}`;
   }
   else{
     //   here .value function returns the value entered by user
