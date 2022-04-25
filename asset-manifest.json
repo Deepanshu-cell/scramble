@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scramble/static/css/main.e6c13ad2.css",
+    "main.js": "/scramble/static/js/main.a18c7ac0.js",
+    "index.html": "/scramble/index.html",
+    "main.e6c13ad2.css.map": "/scramble/static/css/main.e6c13ad2.css.map",
+    "main.a18c7ac0.js.map": "/scramble/static/js/main.a18c7ac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a18c7ac0.js"
+  ]
+}
